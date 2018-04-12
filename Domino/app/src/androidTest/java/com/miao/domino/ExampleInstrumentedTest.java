@@ -1,4 +1,4 @@
-package com.miao.dddd.domino;
+package com.miao.domino;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.miao.dddd.domino", appContext.getPackageName());
+        assertEquals("com.miao.domino", appContext.getPackageName());
     }
 }

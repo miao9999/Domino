@@ -1,4 +1,4 @@
-package com.miao.dddd.domino;
+package com.miao.domino;
 
 import org.junit.Test;
 
